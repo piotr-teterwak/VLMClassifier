@@ -1,0 +1,7 @@
+{"image": "./data/StanfordCars/cars_test/04273.jpg", "label": "2012 Lamborghini Aventador Coupe", "split": "test", "choices": null, "pred": "2012 Lamborghini Aventador Coupe"}
+{"image": "./data/StanfordCars/cars_test/00760.jpg", "label": "2012 Lamborghini Aventador Coupe", "split": "test", "choices": null, "pred": "2012 Lamborghini Gallardo LP 570-4 Superleggera"}
+{"image": "./data/StanfordCars/cars_test/01466.jpg", "label": "2012 Lamborghini Gallardo LP 570-4 Superleggera", "split": "test", "choices": null, "pred": "2012 Lamborghini Gallardo LP 570-4 Superleggera"}
+{"image": "./data/StanfordCars/cars_test/07803.jpg", "label": "2012 Lamborghini Aventador Coupe", "split": "test", "choices": null, "pred": "2012 Lamborghini Aventador Coupe"}
+{"image": "./data/StanfordCars/cars_test/06158.jpg", "label": "2012 Lamborghini Gallardo LP 570-4 Superleggera", "split": "test", "choices": null, "pred": "2012 Lamborghini Gallardo LP 570-4 Superleggera"}
+{"image": "./data/StanfordCars/cars_test/06318.jpg", "label": "2012 Lamborghini Aventador Coupe", "split": "test", "choices": null, "pred": "2012 Lamborghini Aventador Coupe"}
+{"image": "./data/StanfordCars/cars_test/01605.jpg", "label": "2012 Lamborghini Gallardo LP 570-4 Superleggera", "split": "test", "choices": null, "pred": "2012 Lamborghini Gallardo LP 570-4 Superleggera"}
